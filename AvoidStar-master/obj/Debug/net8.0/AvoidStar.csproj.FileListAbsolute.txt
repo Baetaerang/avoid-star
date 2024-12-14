@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\AvoidStar\bin\Debug\net8.0\AvoidStar.exe
+C:\Users\Administrator\Desktop\AvoidStar\bin\Debug\net8.0\AvoidStar.deps.json
+C:\Users\Administrator\Desktop\AvoidStar\bin\Debug\net8.0\AvoidStar.runtimeconfig.json
+C:\Users\Administrator\Desktop\AvoidStar\bin\Debug\net8.0\AvoidStar.dll
+C:\Users\Administrator\Desktop\AvoidStar\bin\Debug\net8.0\AvoidStar.pdb
+C:\Users\Administrator\Desktop\AvoidStar\obj\Debug\net8.0\AvoidStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\AvoidStar\obj\Debug\net8.0\AvoidStar.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\AvoidStar\obj\Debug\net8.0\AvoidStar.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\AvoidStar\obj\Debug\net8.0\AvoidStar.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AvoidStar\obj\Debug\net8.0\AvoidStar.dll
+C:\Users\Administrator\Desktop\AvoidStar\obj\Debug\net8.0\refint\AvoidStar.dll
+C:\Users\Administrator\Desktop\AvoidStar\obj\Debug\net8.0\AvoidStar.pdb
+C:\Users\Administrator\Desktop\AvoidStar\obj\Debug\net8.0\AvoidStar.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\AvoidStar\obj\Debug\net8.0\ref\AvoidStar.dll

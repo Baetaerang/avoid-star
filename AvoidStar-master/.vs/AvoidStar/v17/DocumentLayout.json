@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\AvoidStar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|c:\\users\\administrator\\desktop\\avoidstar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|c:\\users\\administrator\\desktop\\avoidstar\\secondclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|solutionrelative:secondclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecondClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\AvoidStar\\SecondClass.cs",
+              "RelativeDocumentMoniker": "SecondClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\AvoidStar\\SecondClass.cs",
+              "RelativeToolTip": "SecondClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:29:44.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\AvoidStar\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\AvoidStar\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:16:40.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
