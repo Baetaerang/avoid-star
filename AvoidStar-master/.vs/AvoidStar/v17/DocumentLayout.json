@@ -1,14 +1,27 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\AvoidStar\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\avoid-star\\AvoidStar-master\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|c:\\users\\administrator\\desktop\\avoidstar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|c:\\users\\administrator\\desktop\\avoid-star\\avoidstar-master\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|c:\\users\\administrator\\desktop\\avoidstar\\secondclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|c:\\users\\administrator\\desktop\\avoid-star\\avoidstar-master\\secondclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|solutionrelative:secondclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC45353-3B8C-4481-B5F1-42977655F13C}|..\\Basic_data\\Basic_data.csproj|c:\\users\\administrator\\desktop\\avoid-star\\basic_data\\basic_data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC9E71-D17F-400A-8989-6818D043DEE3}|..\\review\\review.csproj|c:\\users\\administrator\\desktop\\avoid-star\\review\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|c:\\users\\administrator\\desktop\\avoid-star\\avoidstar-master\\avoidstar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B54A2A6-77A3-4808-8730-E4630197A1B1}|AvoidStar.csproj|solutionrelative:avoidstar.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CC45353-3B8C-4481-B5F1-42977655F13C}|..\\Basic_data\\Basic_data.csproj|c:\\users\\administrator\\desktop\\avoid-star\\basic_data\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,17 +31,70 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\avoid-star\\Basic_data\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Basic_data\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\avoid-star\\Basic_data\\Program.cs",
+              "RelativeToolTip": "..\\Basic_data\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T06:20:15.141Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AvoidStar",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\avoid-star\\AvoidStar-master\\AvoidStar.csproj",
+              "RelativeDocumentMoniker": "AvoidStar.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\avoid-star\\AvoidStar-master\\AvoidStar.csproj",
+              "RelativeToolTip": "AvoidStar.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T06:50:27.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\avoid-star\\review\\Program.cs",
+              "RelativeDocumentMoniker": "..\\review\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\avoid-star\\review\\Program.cs",
+              "RelativeToolTip": "..\\review\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T08:25:29.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Basic_data",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\avoid-star\\Basic_data\\Basic_data.csproj",
+              "RelativeDocumentMoniker": "..\\Basic_data\\Basic_data.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\avoid-star\\Basic_data\\Basic_data.csproj",
+              "RelativeToolTip": "..\\Basic_data\\Basic_data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-14T06:31:25.002Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "SecondClass.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\AvoidStar\\SecondClass.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\avoid-star\\AvoidStar-master\\SecondClass.cs",
               "RelativeDocumentMoniker": "SecondClass.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\AvoidStar\\SecondClass.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\avoid-star\\AvoidStar-master\\SecondClass.cs",
               "RelativeToolTip": "SecondClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T06:29:44.38Z",
               "EditorCaption": ""
@@ -37,11 +103,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\AvoidStar\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\avoid-star\\AvoidStar-master\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\AvoidStar\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\avoid-star\\AvoidStar-master\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAD0AAAAAAAAAAAAkwFAAAAAVAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-07T06:16:40.001Z",
               "EditorCaption": ""

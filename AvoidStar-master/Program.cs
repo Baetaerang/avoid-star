@@ -1,4 +1,4 @@
-﻿namespace KDH
+﻿namespace BTR
 {
     class Program
     {
@@ -33,7 +33,7 @@ namespace Study
         {
             // 게임 시작
             // 타이틀 변경
-            Console.Title = "별 피하기";
+            Console.Title = "엿 피하기";
             // 콘솔 크기를 변경
             Console.SetWindowSize(30, 30);
             // 콘솔창의 가장 아래에 중앙에 O 그려줘
@@ -43,10 +43,16 @@ namespace Study
             // 콘솔 커서를 안보이게 해줘 
             Console.CursorVisible = false;
 
-            int x = 14, y = 28;
-         
+            int x = 14, y = 28;  //플레이어 시작 위치
+            int Ex =15, Ey = 1; //별이 생성될 위치
+            bool Enemy = false; //별이 존재할때 true , 데드존 false
+
+
+            Random random = new Random();
+
             while(true)
             {
+                Console.Clear();               
                 Console.SetCursorPosition(x, y);
                 // 플레이어의 위치를 그린다.
                 Console.Write("●");
@@ -59,6 +65,7 @@ namespace Study
                     // 플레이어의 좌표를 변경한다.
                     if(key == ConsoleKey.UpArrow)
                     {
+
                         y--;
                         if (y < 0) y = 0;
                     }
@@ -85,7 +92,40 @@ namespace Study
 
                     // 오른쪽 이동
                 }
+               
+                if (!Enemy)
+                {
+                    Enemy = true; 
+                }
+                Console.Clear();                                                      
+                    Console.SetCursorPosition(Ex, Ey);
+                    Console.Write("凸");
+                       
+                if(Enemy)
+                {
+                    
+                       
+                    Ey = Ey + 1;
+                                                       
+                }
+
+                if (Ey >= 28)
+                {
+                    Enemy = false;
+                    Ey = 0;
+                    Ex = random.Next(0, 28);
+                }
+               
+                
+                
+                
+
+
+
+                Thread.Sleep(50);
             }
+
+
 
             Console.ReadKey();
 

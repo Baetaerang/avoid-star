@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\bin\Debug\net8.0\Basic_data.exe
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\bin\Debug\net8.0\Basic_data.deps.json
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\bin\Debug\net8.0\Basic_data.runtimeconfig.json
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\bin\Debug\net8.0\Basic_data.dll
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\bin\Debug\net8.0\Basic_data.pdb
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\obj\Debug\net8.0\Basic_data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\obj\Debug\net8.0\Basic_data.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\obj\Debug\net8.0\Basic_data.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\obj\Debug\net8.0\Basic_data.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\obj\Debug\net8.0\Basic_data.sourcelink.json
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\obj\Debug\net8.0\Basic_data.dll
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\obj\Debug\net8.0\refint\Basic_data.dll
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\obj\Debug\net8.0\Basic_data.pdb
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\obj\Debug\net8.0\Basic_data.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\avoid-star\Basic_data\obj\Debug\net8.0\ref\Basic_data.dll
